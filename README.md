@@ -1,2 +1,2 @@
 # mtn
-I am new here. I am interested in Python.
+I am new here. I am interested in coding.
